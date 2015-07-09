@@ -148,7 +148,7 @@
 
 <!-- LOCALIZATION NOTE (profilerUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
-  -  Wraps the command used to start, like "Registro farata per console.profile("label")" -->
+  -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
 <!ENTITY profilerUI.console.recordingNoticeStart "Registro farata per">
 <!ENTITY profilerUI.console.recordingNoticeEnd   "">
 

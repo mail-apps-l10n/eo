@@ -6,6 +6,10 @@
 <!ENTITY newtab.pageTitle "Nova langeto">
 <!ENTITY newtab.customize.classic "Montri viajn preferatajn retejojn">
 <!ENTITY newtab.customize.cog.enhanced "Inkluzivi sugestitajn retejojn">
+<!--
+  LOCALIZATION NOTE(newtab.customize.cog.title): This string is for the new
+  tab cog menu title. It will be transformed to uppercase.
+-->
 <!ENTITY newtab.customize.cog.title "Novaj langetaj regiloj">
 <!ENTITY newtab.customize.cog.learn "Pli da informo pri: Nova langeto">
 <!ENTITY newtab.customize.title "Personecigi vian novlangetan paĝon">
