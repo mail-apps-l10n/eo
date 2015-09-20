@@ -74,7 +74,7 @@
 <!ENTITY btnConsoleWarnings     "Avertoj">
 <!ENTITY btnConsoleLog          "Registro">
 <!ENTITY btnConsoleXhr          "XHR">
-<!ENTITY btnConsoleReflows      "Reflows">
+<!ENTITY btnConsoleReflows      "Rekalkuloj de DOM">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
