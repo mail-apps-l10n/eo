@@ -13,6 +13,8 @@
 <!ENTITY trackingProtectionPBM5.label         "Uzi protekton kontraŭ spurado en privataj fenestroj">
 <!ENTITY trackingProtectionPBM5.accesskey     "f">
 <!ENTITY trackingProtectionPBMLearnMore.label "Pli da informo">
+<!ENTITY changeBlockList.label          "Ŝanĝi liston de blokado">
+<!ENTITY changeBlockList.accesskey      "l">
 
 <!ENTITY  history.label                 "Historio">
 
