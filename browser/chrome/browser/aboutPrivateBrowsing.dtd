@@ -59,6 +59,6 @@
 
 <!ENTITY trackingProtection.description1       "Privataj fenestroj nun blokas partojn de la paĝo, kiuj povus spuri vian retumadon.">
 
-<!ENTITY trackingProtection.disable            "Malŝalti kontraŭspuran protekton">
-<!ENTITY trackingProtection.enable             "Ŝalti kontraŭspuran protekton">
+<!ENTITY trackingProtection.disable            "Malŝalti protekton kontraŭ spurado">
+<!ENTITY trackingProtection.enable             "Ŝalti protekton kontraŭ spurado">
 <!ENTITY trackingProtection.startTour1         "Vidi kiel tio ĉi funkcias">
