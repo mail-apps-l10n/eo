@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "m">
 
 <!ENTITY fxaSignIn.label "Komenci seancon en &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Malfermi preferojn de Open &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Malfermi preferojn de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconnect to &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Konfirmi vian konton">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; aktiva">

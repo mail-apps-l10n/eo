@@ -102,7 +102,7 @@
 <!ENTITY settings "Agordoj">
 <!ENTITY settings_title "Agordoj">
 <!ENTITY pref_category_input_options "Elektebloj de enigo">
-<!ENTITY pref_category_advanced "Spertaj">
+<!ENTITY pref_category_advanced "Spertulaj">
 <!ENTITY pref_category_customize "Personecigi">
 <!ENTITY pref_category_customize_summary "Hejmo, serĉo, langetoj, importo">
 <!ENTITY pref_category_customize_alt_summary "Hejmo, serĉo, langetoj, malfermi poste, importo">
@@ -594,7 +594,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_state_enabled "Aktiva">
 <!ENTITY doorhanger_tracking_state_disabled "Malaktiva">
 <!ENTITY doorhanger_tracking_message_enabled1 "Provoj spuri vian retumadon estis blokitaj.">
-<!ENTITY doorhanger_tracking_message_disabled2 "Tiu ĉi paĝo enahavas elementojn kiuj povus spuri vian retumadon.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Tiu ĉi paĝo enahavas elementojn, kiuj povus spuri vian retumadon.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Pli da informo">
