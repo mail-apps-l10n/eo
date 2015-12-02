@@ -175,7 +175,7 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.longDesc "Spertula informo: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Pli da informo…">
 
-<!ENTITY weakCryptoUsed.title "Your connection is not secure">
+<!ENTITY weakCryptoUsed.title "Via konekto ne estas sekura">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "ssl_error_no_cypher_overlap". -->
 <!ENTITY weakCryptoUsed.longDesc "Altnivela informo: ssl_error_no_cypher_overlap">
